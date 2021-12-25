@@ -1,0 +1,4 @@
+go to LAMMPS input file folder (open it)
+type CMD in search bar (this automatically opens the comand prompt to the proper directory
+tyoe lmp -in file.txt 
+can be a .txt file or a .lmp file
